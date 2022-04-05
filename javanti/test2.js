@@ -43,4 +43,5 @@
 
 var arr = (1,2,3,4,5,6,7)
 
-ArrayToString(["Javanti, 12, Green"])
+ArrayToString(["Javanti, 12, Green"]) -> "Javanti12Green"
+
