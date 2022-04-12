@@ -76,5 +76,17 @@
 //Write a function that converts an object to an array.
 // Example: objectToArray({a: "Ali", b:12}) -> [["a", "Ali"],["b",12]]
 
-var objectToArray
-objectToArray({a: "Ali", b:12})
+// function objectToArray(obj) {
+//     var arr = []
+//     for (var i in obj) {
+//         arr.push([i,obj[i]])
+//     }
+//     return arr
+// }
+// console.log({a: "Ali", b:12})
+
+//create a function that takes an array of arrays and returns a single array with largest numbers of each
+
+function findMaxnumbers([[1,2,3],[4,5,6],[7,8,9]]) {
+
+}
